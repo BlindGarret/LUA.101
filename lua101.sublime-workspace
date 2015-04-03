@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ama",
+				"Amanda=\"Barely"
+			],
+			[
+				"Br",
+				"Brian=\"Boy"
+			],
+			[
+				"de",
+				"deanna=\"Girl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"Installation"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Code Repository/LUA.101"
+	],
+	"file_history":
+	[
+		"/D/Code Repository/LUA.101/SublimeProj",
+		"/C/Users/Lucas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Code Repository/LUA.101/IntroductoryMaterial/externalfileloading.lua",
+		"/C/Users/Lucas/Documents/GitHub/Haskell.101/exercise1.hs",
+		"/C/Users/Lucas/Desktop/Git BlindCommunication/BlindCommunication/.gitignore",
+		"/C/Users/Lucas/Desktop/redmine-2.6.1/config/database.yml",
+		"/C/Users/Lucas/Desktop/Dads rfid code/B2Q/Code/Project_16/Project_16.pde",
+		"/C/Users/Lucas/Desktop/Dads rfid code/rfid rw card specs MFRC 522/RFID/unoRFID/unoRFID.pde",
+		"/C/Program Files (x86)/RTD Payroll Incentives/DataConnection.Settings",
+		"/C/Users/Lucas/Desktop/gtest-1.7.0/README",
+		"/D/Live Projects/ShadowText/ShadowText.Control/ShadowText.Control.csproj",
+		"/D/Transferrable/CHOLD/SdlProofOfFunction9192014/main.cpp",
+		"/D/Code Base/C++/Sublime WorkSpace/Playground/main.cpp",
+		"/D/Transferrable/CHOLD/OurFirstWindow09232014/main.cpp",
+		"/D/Transferrable/playground/main.cpp"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\n",
+			"/*",
+			"ProjectTypeGuide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lua101.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
