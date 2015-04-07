@@ -26,11 +26,3 @@ function KvpInteration(a)
     return KvpInterator, a, 0
 end
 
-t = {"Hello", " ", "World", "!"}
-local sentence = ""
-
-for word in SimpleListIteration(t) do
-    sentence = sentence .. word
-end
-
---print(sentence)

@@ -19,11 +19,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "IntroductoryMaterial/linkingc.lua",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 58.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -69,10 +82,13 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Code Repository/LUA.101"
+		"/C/Users/Lroe/Desktop/Personal Repos/LUA.101",
+		"/C/Users/Lroe/Desktop/Personal Repos/LUA.101/IntroductoryMaterial"
 	],
 	"file_history":
 	[
+		"/C/Users/Lroe/Desktop/Personal Repos/LUA.101/IntroductoryMaterial/iterators.lua",
+		"/C/Users/Lroe/Desktop/Personal Repos/LUA.101/IntroductoryMaterial/Require.lua",
 		"/D/Code Repository/LUA.101/SublimeProj",
 		"/C/Users/Lucas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/D/Code Repository/LUA.101/IntroductoryMaterial/externalfileloading.lua",
@@ -125,8 +141,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "IntroductoryMaterial/linkingc.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -136,7 +182,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 32.0
 	},
 	"layout":
 	{
@@ -165,6 +211,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "Packages/User/MyPythonBuildSystem.sublime-build",
 	"project": "lua101.sublime-project",
 	"replace":
 	{
@@ -174,6 +221,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -182,6 +230,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -190,6 +239,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
