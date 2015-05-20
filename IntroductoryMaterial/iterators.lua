@@ -1,5 +1,5 @@
 --[[ Iterators: If I'm reading this right Itterators are very c++ like in that you can design an iterator
-            of your choice. We've been using a build in ipairs iterator which functions very similarly to
+            of your choice. We've been using a built in ipairs iterator which functions very similarly to
             a foreach of a dictionary, but that's an implementation detail apparently.]]--
 
 --Simple list iterator. Unsure how threading works in this

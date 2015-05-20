@@ -38,7 +38,7 @@ print(1000000)
         double brackets show literal strings. Gives automatic conversion between string and number, meaning
         any numeric operation put on a string attempts to convert to number. The opposite is true as well. '..'
         is the concat operator btw. This does not mean "10" and 10 are the same however.]]--
-print("\<yo\>")
+print("<yo>")
 print([[<yo>]])
 print("3" + 12 * "1e-10")
 print(10 .. 20)
