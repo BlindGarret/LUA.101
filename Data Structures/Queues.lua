@@ -32,7 +32,7 @@ print(Queue.pop(herp))
 print(Queue.pop(herp))
 print(Queue.pop(herp))
 print(Queue.pop(herp))
-print(Queue.pop(herp)) -- Errors
+print(Assert(Queue.pop(herp))) -- Errors
     
 
   
